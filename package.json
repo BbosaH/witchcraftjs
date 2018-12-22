@@ -1,6 +1,6 @@
 {
   "name": "witchcraftjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "set of handy logical functions",
   "main": "index.js",
   "scripts": {
